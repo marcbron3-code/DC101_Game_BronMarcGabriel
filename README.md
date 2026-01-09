@@ -5,6 +5,8 @@ The game runs on a countdown timer, encouraging quick decision-making and hand-e
 
 This game is built using HTML for structure, CSS for styling and animations, and JavaScript for game logic such as random positioning, scoring, and timing.
 
+Technologies used
+
 HTML (HyperText Markup Language)
 Used to create the structure of the game, including the game area, score display, timer, and buttons.
 
@@ -13,6 +15,8 @@ Used for styling the game interface, designing the target, positioning elements,
 
 JavaScript
 Used to control the game logic such as random target movement, score counting, time management, and user interactions through mouse clicks.
+
+Instructions to run the game
 
 Download or Clone the Repository
 
